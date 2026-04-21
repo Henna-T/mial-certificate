@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "build",
+  "outputDirectory": "public",
   "env": {},
   "functions": {
     "api/**/*.js": {
