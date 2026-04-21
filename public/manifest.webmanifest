@@ -1,0 +1,17 @@
+{
+  "name": "Certificate Generator",
+  "short_name": "CertGen",
+  "description": "Create professional certificates and export them as PDF in a PWA-ready app.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eef1ff",
+  "theme_color": "#2e348e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
